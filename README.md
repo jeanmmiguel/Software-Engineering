@@ -7,12 +7,7 @@ Data e local: 28 de Março de 2022, sala E101
 
 Presente: MATHEUS CARDOSO PINTO,JEAN CARLOS MARTINS MIGUEL,GUSTAVO KIOSHI ASATO,YASMIN POLETO BIDO
 
-Facilitador: 
-
-
-Tomador da ata: 
-
-Garantia de qualidade: 
+facilitador,tomador da ata,garantia de qualidade e apresentador, não foram definidos.
 
 Repositório do projeto: https://github.com/jeanmmiguel/SoftwareEngineer
 
@@ -28,3 +23,14 @@ Agenda
 - Perguntas propostas a serem respondidas
 2. Criação de repositório no github
  
+
+
+
+##Reunião 2
+Facilitador/Gerente: Jean
+
+Tomador de ata: Matheus
+
+Garantia de qualidade: Yasmin
+
+Apresentador: Gustavo
