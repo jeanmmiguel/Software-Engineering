@@ -2,7 +2,7 @@
 
 **Grupo A:** CM Agenda 
 
-**Data e Local:** 28 de Março de 2022, sala E101 - UTFPR-CM 
+**Data e Local:** 7 de Abril de 2022, sala E101 - UTFPR-CM 
 
 **Presentes:** Matheus Cardoso Pinto, Jean Carlos Martins Miguel, Gustavo Kioshi Asato, Yasmin Poleto Bido 
 
@@ -20,11 +20,14 @@
 
 **Repositório do projeto:** https://github.com/jeanmmiguel/SoftwareEngineer 
 
-**Início:** 15:50
+**Início:** 17:00
 
 **Término:** 17:30
 
 **Agenda:**
 
-1. 
-2. 
+1. Documentação de Requisitos do Sistema
+
+- 1.1. Declaração do Problema (15 min)
+
+- 1.2. Divisão das Tarefas restantes sobre os Requisitos (15 min)
