@@ -28,6 +28,8 @@
 
 1. Documentação de Requisitos do Sistema
 
-- 1.1. Declaração do Problema (15 min)
+- 1.1. Declaração do Problema (10 min)
 
-- 1.2. Divisão das Tarefas restantes sobre os Requisitos (15 min)
+- 1.2. Declaração da Intenção do Produto (10 min)
+
+- 1.3. Divisão das Tarefas restantes sobre os Requisitos (10 min)
