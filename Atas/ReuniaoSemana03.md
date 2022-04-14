@@ -6,7 +6,7 @@
 
 **Presentes:** Matheus Cardoso Pinto, Jean Carlos Martins Miguel, Gustavo Kioshi Asato
 
-**Faltas:** YASMIN POLETO BIDO
+**Faltas:** Yasmin Poleto Bido
 
 **Funções**
 
