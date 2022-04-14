@@ -1,4 +1,4 @@
-# Ata da Reunião da Semana 02 (Grupo A)
+# Ata da Reunião da Semana 03 (Grupo A)
 
 **Grupo A:** CM Agenda 
 
@@ -27,4 +27,5 @@
 **Agenda:**
 
 1. Análise
-1.1 Modelo Entidade Relacionamento
+
+- 1.1 Modelo Entidade Relacionamento
