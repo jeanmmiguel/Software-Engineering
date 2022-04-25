@@ -31,4 +31,4 @@
 - 1.1 reunião sobre Principios SOLID
 - 1.2 distribuição para cada integrante da equipe 
 - 1.3 fazendo os slides no overleaf 
-- 1.4 revisão do conteudo da apresentação:
+- 1.4 revisão do conteudo da apresentação
