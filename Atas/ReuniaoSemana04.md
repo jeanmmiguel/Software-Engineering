@@ -4,9 +4,9 @@
 
 **Data e Local:** 25 de Abril de 2022, sala E101 - UTFPR-CM 
 
-**Presentes:** Jean Carlos Martins Miguel, Gustavo Kioshi Asato, Yasmin Poleto Bido
+**Presentes:** Jean Carlos Martins Miguel, Gustavo Kioshi Asato
 
-**Faltas:** Matheus Cardoso Pinto
+**Faltas:** Matheus Cardoso Pinto, Yasmin Poleto Bido
 
 **Funções**
 
