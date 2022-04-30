@@ -21,9 +21,9 @@
 
 **Repositório do projeto:** https://github.com/jeanmmiguel/Software-Engineering
 
-**Início:** 15:52:21
+**Início:** 22:06:21
 
-**Término:** 17:30:02
+**Término:** 23:30:02
 
 **Agenda:**
 
