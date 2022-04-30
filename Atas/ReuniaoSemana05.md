@@ -13,11 +13,11 @@
 
 - **Facilitador/Gerente:** Gustavo
 
-- **Tomador da Ata:** Jean
+- **Tomador da Ata:** Matheus
 
-- **Garantia de Qualidade:** Yasmin
+- **Garantia de Qualidade:** Jean
 
-- **Apresentador:** Matheus
+- **Apresentador:** Yasmin
 
 **Repositório do projeto:** https://github.com/jeanmmiguel/Software-Engineering
 
