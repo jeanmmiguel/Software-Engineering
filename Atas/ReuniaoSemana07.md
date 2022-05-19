@@ -1,4 +1,4 @@
-# Ata da Reunião da Semana 06 (Grupo A)
+# Ata da Reunião da Semana 07 (Grupo A)
 
 **Grupo A:** CM Agenda 
 
