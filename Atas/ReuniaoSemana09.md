@@ -1,13 +1,12 @@
-# Incompleto
 ## Ata da Reunião da Semana 09 (Grupo A)
 
 **Grupo A:** CM Agenda 
 
-**Data e Local:** 19 de maio de 2022, E101 - UTFPR-CM 
+**Data e Local:** 26 de maio de 2022, E101 - UTFPR-CM 
 
 **Presentes:** Jean Carlos Martins Miguel, Gustavo Kioshi Asato, Matheus Cardoso Pinto, Yasmin Poleto Bido
 
-**Faltas:**
+**Faltas:** -
 
 **Funções:**
 
@@ -27,6 +26,6 @@
 
 **Agenda:**
 
-1. Estruturação do Projeto
+1. 
 
-- 1.1 Design do Fluxo de Telas (Protótipo em Figma)
+- 1.1 
