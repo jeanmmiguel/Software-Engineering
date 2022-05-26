@@ -26,6 +26,6 @@
 
 **Agenda:**
 
-1. 
+1. Começamos o desenvolvimento front-end / back-end
 
-- 1.1 
+
