@@ -5,6 +5,7 @@ from flask import jsonify
 from flask_sqlalchemy import SQLAlchemy
 from flask_migrate import Migrate
 import datetime
+from datetime import timedelta
 
 from flask import Response
 
@@ -22,7 +23,7 @@ class User(db.Model):
     
     def serialize(self):
         return {
-            'id': self.id,
+            'id': self.id_usuario,
             'name': self.name,
          
         }
@@ -32,12 +33,12 @@ class User(db.Model):
 class Event(db.Model):
     id_evento = db.Column(db.Integer, primary_key=True)
     name = db.Column(db.String(128))
-    duration_time = db.Column(db.DateTime(timezone=True))
+    duration_time = db.Column(db.String(15))
     price = db.Column(db.Float)
     status = db.Column(db.Boolean)
     def serialize(self):
         return {
-            'id': self.id,
+            'id': self.id_evento,
             'name': self.name,
             'duration_time': self.duration_time,
             'price': self.price,
