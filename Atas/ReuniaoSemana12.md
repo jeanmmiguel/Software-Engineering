@@ -5,15 +5,15 @@
 
 **Data e Local:** 15 de junho de 2022, Discord
 
-**Presentes:** Jean Carlos Martins Miguel,Yasmin Poleto Bido
+**Presentes:** Jean Carlos Martins Miguel
 
-**Faltas:** Matheus Cardoso Pinto, Gustavo Kioshi Asato
+**Faltas:** Matheus Cardoso Pinto, Gustavo Kioshi Asato,Yasmin Poleto Bido
 
 **Funções:**
 
-- **Facilitador/Gerente:** Jean
+- **Facilitador/Gerente:** 
 
-- **Tomador da Ata:** Yasmin
+- **Tomador da Ata:** Jean
 
 - **Garantia de Qualidade:** 
 
